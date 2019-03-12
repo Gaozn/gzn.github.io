@@ -67,7 +67,11 @@
       } else if (isIOS) {
         window.location.href = 'https://itunes.apple.com/cn/app/%E9%9B%84%E6%9D%BE%E7%BD%91%E8%AF%BE/id1439993664?mt=8';
       } else {
-        document.write('既不是IOS，也不是Android');
+        var weixin_tip = document.getElementById("weixin-tip");
+        var img = document.createElement("img");
+        img.src = "/weixin.jpg";
+        weixin_tip.appendChild(img);
+//         document.write('既不是IOS，也不是Android');
       }
     }
     // 微信扫码判断
