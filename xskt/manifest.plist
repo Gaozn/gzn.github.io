@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/logo57.png</string>
+					<string>https://www.gaogzn.top/xskt/logo57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/logo512.png</string>
+					<string>https://www.gaogzn.top/xskt/logo512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -47,7 +47,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-69C52C58-4A9C-46A8-98EF-BB27A481D975.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -267,7 +267,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-EAF77BE3-4FBD-4748-A860-D859AA947185.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -284,7 +284,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-7BD5D395-E5A9-4800-B582-3FC563FD5CA6.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -305,7 +305,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-0AE9A795-77AF-4C4B-AE7E-5E7A873D1AD4.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -545,7 +545,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-E5A0D872-8051-494B-8E39-BABCC47515C4.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -568,7 +568,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-72750ADE-BDD3-4565-801A-AEF7872CC91B.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -656,7 +656,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-A3422960-0F90-4AC2-8890-216E5CE4E310.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -711,7 +711,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-C13F525A-BC43-4202-99EC-8A597541EED8.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -727,7 +727,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-DC8E8E94-39A2-4A4A-B60B-5A53C1D6C00B.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -754,7 +754,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-5D6763F0-A294-4176-AA86-5DD673AF80E2.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -835,7 +835,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-62124242-87C0-4BD9-956E-9A9878B3605D.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -908,7 +908,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-98F48CF1-193D-4D4F-9212-94AD37D90427.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1132,7 +1132,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-574E512C-DA12-43E3-A6C1-A22AD3187892.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1211,7 +1211,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-05E8F7E6-104D-49D9-A2E3-2DFC8B60A5C9.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
@@ -1232,7 +1232,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-0FDA9BDA-0501-485A-987D-8681CDCBB65D.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1315,7 +1315,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-5C97692A-5765-44B1-A675-E936DA63A677.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -1334,7 +1334,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.gaogzn.top/apps/xskt-01DA96D6-C6C8-4476-AA3F-EC0C3E65B5C8.ipa</string>
+					<string>https://github.com/Gaozn/Gzn.Github.io/releases/download/1.0.7/xskt.ipa</string>
 					<key>variantDescriptors</key>
 					<array/>
 					<key>variantIds</key>
